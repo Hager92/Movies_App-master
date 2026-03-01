@@ -41,16 +41,3 @@ Movies-App/
 ```
 
 ---
-
-## ⚙️ How To Run The Project
-
-1. Download or clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-   ```
-2. Open `index.html` in your browser.
-
-No installation required ✅
-
----
