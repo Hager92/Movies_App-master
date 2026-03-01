@@ -1,8 +1,3 @@
-Here is a **professional README.md** for your project 👇
-You can copy this into a file named `README.md` and upload it to GitHub.
-
----
-
 # 🎬 Movies App
 
 A modern and responsive movie website built using **HTML5**, **Bootstrap 5**, and **Font Awesome**.
@@ -43,16 +38,6 @@ Movies-App/
 ├── img/
 ├── js/
 └── webfonts/
-```
-
----
-
-## 📸 Screenshots
-
-You can add screenshots here later:
-
-```
-![Home Page](img/screenshot.png)
 ```
 
 ---
